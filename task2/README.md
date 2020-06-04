@@ -10,4 +10,4 @@ Corpus of Contemporary American English
   
 #### Part 2: Chart
   1. Searched words : LGBTQ and Demonitization
-  Analysis given in [reasons.txt](https://github.com/Samridhi98/Natural-Language-Processing/new/master/task2/reasons.txt)
+  Analysis given in [reasons.txt](https://github.com/Samridhi98/Natural-Language-Processing/new/master/task2/chart/reasons.txt)
