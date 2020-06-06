@@ -7,3 +7,4 @@
   3. Got text statistics including char count word count, composition of adjectives, verbs etc
   4. Highligts the text issues
   
+PDFs here show the corresponding reports generated.

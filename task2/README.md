@@ -1,7 +1,7 @@
 # Task - 2 (Samridhi Murarka 17BCE2038)
 
 ## COCA - Analysis
-Corpus of Contemporary American English
+Analysing the Corpus of Contemporary American English
 
 #### Part 1: [List](https://github.com/Samridhi98/Natural-Language-Processing/blob/master/task2/List)
   1. Searched words : LGBTQ and Hemorrhage
