@@ -1,4 +1,4 @@
-# Task 3 (Samridhi Murarka 17BCE2038)
+# Task - 3 (Samridhi Murarka 17BCE2038)
 ##### Homework Task
 
 ## Readable.com
